@@ -7,7 +7,10 @@ namespace Laba
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hey");
+            Console.WriteLine("1");
+            Console.WriteLine("2");
+            Console.WriteLine("3");
+
         }
     }
 }
